@@ -1,7 +1,7 @@
-<h1 align="center"><b>Calculadora Web Simples</b></h1>
-<h3 align="center">Simple Web Calculator</h3>
+# Calculadora Web Simples
+### Simple Web Calculator
 
-<img src="https://user-images.githubusercontent.com/90411176/171858707-54f4a470-6221-4199-8f3b-dd6ccaf28abd.png" style="display: block; margin: 0px auto">
+<img src="https://user-images.githubusercontent.com/90411176/171858707-54f4a470-6221-4199-8f3b-dd6ccaf28abd.png">
 
 ## Descrição do projeto (Project description) :page_with_curl:
 
