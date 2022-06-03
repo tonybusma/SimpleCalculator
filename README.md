@@ -13,9 +13,9 @@ Web calculator developed to perform simple math operations directly in the brows
 
 ![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=9cf&style=plastic&logo=vsco)
 
-![Badge](https://img.shields.io/static/v1?label=HTML&message=markup&color=red&style=plastic&logo=html)
+![Badge](https://img.shields.io/static/v1?label=HTML%&message=markup&color=red&style=plastic&logo=html5)
 
-![Badge](https://img.shields.io/static/v1?label=CSS&message=style&color=blue&style=plastic&logo=css)
+![Badge](https://img.shields.io/static/v1?label=CSS3&message=style&color=blue&style=plastic&logo=css3)
 
 ![Badge](https://img.shields.io/static/v1?label=JavaScript&message=language&color=yellow&style=plastic&logo=javascript)
 
