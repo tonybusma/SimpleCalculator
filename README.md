@@ -1,7 +1,7 @@
 # Calculadora Web Simples
 ### Simple Web Calculator
 
-<img src="https://user-images.githubusercontent.com/90411176/171858707-54f4a470-6221-4199-8f3b-dd6ccaf28abd.png">
+<a href="https://tonybusma.github.io/SimpleWebCalculator/" target="_blank"><img src="https://user-images.githubusercontent.com/90411176/171858707-54f4a470-6221-4199-8f3b-dd6ccaf28abd.png"></a>
 
 ## Descrição do projeto (Project description) :page_with_curl:
 
@@ -23,7 +23,7 @@ Web calculator developed to perform simple math operations directly in the brows
 
 Basta clicar no link abaixo:
 
-> [SimpleWebCalculator](https://tonybusma.github.io/SimpleWebCalculator/)
+> <a href="https://tonybusma.github.io/SimpleWebCalculator/" target="_blank">SimpleWebCalculator</a>
 
 ###### Projeto desenvolvido por:
 
