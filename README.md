@@ -11,7 +11,7 @@ Web calculator developed to perform simple math operations directly in the brows
 
 ## Ferramentas utilizadas (tools) :wrench:
 
-![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=9cf&style=plastic&logo=vsco)
+![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=9cf&style=plastic&logo=visualstudiocode)
 
 ![Badge](https://img.shields.io/static/v1?label=HTML&message=markup&color=red&style=plastic&logo=html5)
 
